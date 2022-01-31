@@ -2,6 +2,7 @@
     "files.associations": {
         "*.cpp": "cpp",
         "*.py": "python",
-        "string.h": "c"
+        "string.h": "c",
+        "unistd.h": "c"
     }
 }

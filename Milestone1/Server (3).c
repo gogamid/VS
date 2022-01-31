@@ -13,7 +13,7 @@
 #define SA struct sockaddr
 #define CON_PERMA 1
 #define CON_FIRST 0
-#define MAX_CLIENTS 55
+#define MAX_CLIENTS 50
 
 int discon_ctr = 0;
 int consocket = 0;
